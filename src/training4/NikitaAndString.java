@@ -23,8 +23,9 @@ public class NikitaAndString {
 		}
 		arr.add(numtemp);
 		if (temp == 'b') arr.add(0);
-		
+
 		int minsofar = 6000;
+		if (arr.size() == 1) minsofar = 0;
 		for (int bstart = 1; bstart<arr.size()-1;bstart+=2) {
 			for (int astart = bstart+1; astart<arr.size(); astart +=2){
 				int currmin = 0;
@@ -42,7 +43,6 @@ public class NikitaAndString {
 			}
 		}
 		System.out.println(s.length()-minsofar);
+		sc.close();
 	}
 }
-
-

@@ -1,6 +1,5 @@
-package lyftLevel5;
+package codeforces1033_lyftLevel5;
 
-import java.io.*;
 import java.util.*;
 import java.lang.*;
 
