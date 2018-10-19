@@ -3,6 +3,8 @@ package codeforces1033_lyftLevel5;
 import java.util.*;
 import java.lang.*;
 
+//solution for codeforces contest #1033C
+
 public class PermutationGame {
     static int[] dp;
     static int[] a;
@@ -11,7 +13,7 @@ public class PermutationGame {
         //want to find recur f(n) s.t. if there is a dp == 2, return 1, else return 2
         if (dp[n]!=0) return dp[n];
 
-        int m = a[n]; //the mod by which we must go up or down; WE ARE GETTING STACKOVERFLOW
+        int m = a[n]; //the mod by which we must go up or down
         int k = 2;
 
         for (int i=n-m; i>=0;i-=m){

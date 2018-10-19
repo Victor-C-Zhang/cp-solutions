@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39245a38-16e3-40f3-8690-9e61fbf89927" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,22 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4100" />
+          <entry key="java" value="7033" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4100" />
+          <entry key="JAVA" value="7033" />
         </counts>
       </usages-collector>
     </session>
@@ -61,14 +58,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/training5/AandBandCompilationErrors.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="48">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/training5/SonyaAndQueries.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/training5/TheFestiveEvening.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/proCon4/KuriyamaMiraisStones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/proCon4/KyoyaandColoredBalls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -98,10 +149,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/training4/Joysticks.java" />
-        <option value="$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java" />
         <option value="$PROJECT_DIR$/src/DataStructures.java" />
         <option value="$PROJECT_DIR$/src/codeforces1033_lyftLevel5/Divisors.java" />
         <option value="$PROJECT_DIR$/src/training5/AandBandCompilationErrors.java" />
+        <option value="$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java" />
+        <option value="$PROJECT_DIR$/src/training5/SonyaAndQueries.java" />
+        <option value="$PROJECT_DIR$/src/training5/TheFestiveEvening.java" />
+        <option value="$PROJECT_DIR$/src/proCon4/KuriyamaMiraisStones.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/proCon4/KyoyaandColoredBalls.java" />
       </list>
     </option>
   </component>
@@ -138,7 +194,13 @@
               <item name="puppy" type="b2602c69:ProjectViewProjectNode" />
               <item name="cp-solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforces1033_lyftLevel5" type="462c0819:PsiDirectoryNode" />
+              <item name="proCon4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="puppy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cp-solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,8 +213,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539669903064" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539912659381" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java_stuff/Puppy/src" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -167,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AandBandCompilationErrors">
+  <component name="RunManager" selected="Application.KyoyaandColoredBalls">
     <configuration name="AandBandCompilationErrors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="training5.AandBandCompilationErrors" />
       <module name="puppy" />
@@ -181,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Divisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces1033_lyftLevel5.Divisors" />
+    <configuration name="KuriyamaMiraisStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proCon4.KuriyamaMiraisStones" />
       <module name="puppy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeforces1033_lyftLevel5.*" />
+          <option name="PATTERN" value="proCon4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,29 +256,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces1033_lyftLevel5.PermutationGame" />
+    <configuration name="KyoyaandColoredBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proCon4.KyoyaandColoredBalls" />
       <module name="puppy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeforces1033_lyftLevel5.*" />
+          <option name="PATTERN" value="proCon4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonyaAndQueries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training5.SonyaAndQueries" />
+      <module name="puppy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="puppy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PermutationGame" />
-      <item itemvalue="Application.Divisors" />
       <item itemvalue="Application.AandBandCompilationErrors" />
+      <item itemvalue="Application.SonyaAndQueries" />
+      <item itemvalue="Application.KuriyamaMiraisStones" />
+      <item itemvalue="Application.KyoyaandColoredBalls" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KyoyaandColoredBalls" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.KuriyamaMiraisStones" />
+        <item itemvalue="Application.SonyaAndQueries" />
         <item itemvalue="Application.AandBandCompilationErrors" />
-        <item itemvalue="Application.Divisors" />
-        <item itemvalue="Application.PermutationGame" />
       </list>
     </recent_temporary>
   </component>
@@ -231,16 +317,15 @@
       <option name="presentableId" value="Default" />
       <updated>1539627539843</updated>
       <workItem from="1539627557492" duration="16984000" />
-      <workItem from="1539669045370" duration="819000" />
+      <workItem from="1539669045370" duration="12425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17803000" />
+    <option name="totallyTimeSpent" value="29409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -251,8 +336,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.48688525" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48688525" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -283,7 +368,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java</url>
-          <line>41</line>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -321,13 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructures.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -347,8 +425,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training5/AandBandCompilationErrors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="257">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces1033_lyftLevel5/PermutationGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proCon4/KyoyaandColoredBalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training5/SonyaAndQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training5/TheFestiveEvening.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proCon4/KuriyamaMiraisStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
