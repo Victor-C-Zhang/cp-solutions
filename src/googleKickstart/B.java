@@ -50,22 +50,23 @@ public class B {
             for (int i=2;i<q;i++){
                 Z[i] = (int)((a3*(long)Z[i-1] + b3*(long)Z[i-2] + c3) % m3);
             }
-            int[] L = new int[n]; //mins
-            int[] R = new int[n]; //maxes
-            int[] K = new int[q]; //queries
+            //int[] X = new int[n]; //mins
+            //int[] Y = new int[n]; //maxes
+            //int[] Z = new int[q]; //queries
             int maxr = 0;
             for (int i=0;i<n;i++){
-                L[i] = Math.min(X[i],Y[i]) + 1;
-                R[i] = Math.max(X[i],Y[i]) + 1;
-                if (R[i]>maxr) maxr = R[i];
+                int x = Math.min(X[i],Y[i]) + 1;
+                int y = Math.max(X[i],Y[i]) + 1;
+                X[i] = x; Y[i] = y;
+                if (Y[i]>maxr) maxr = Y[i];
             }
             for (int i=0;i<q;i++){
-                K[i] = Z[i] + 1;
+                Z[i] = Z[i] + 1;
             }
             int[] prefix = new int[maxr+1];
             for (int i=0;i<n;i++){
-                prefix[R[i]]++;
-                prefix[L[i]-1]--;
+                prefix[Y[i]]++;
+                prefix[X[i]-1]--;
             }
             for (int i=maxr-1;i>-1;i--){
                 prefix[i] = prefix[i+1] + prefix[i];
@@ -74,9 +75,9 @@ public class B {
             for (int i=1;i<=q;i++){
                 long cnt = 0;
                 for (int j=maxr;j>=0;j--){
-                    K[i-1]-=prefix[j];
+                    Z[i-1]-=prefix[j];
                     cnt = j;
-                    if (K[i-1]<=0) break;
+                    if (Z[i-1]<=0) break;
                 }
                 sum+=cnt*i;
             }

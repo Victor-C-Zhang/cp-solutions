@@ -14,7 +14,7 @@ public class A {
             long[] arr = new long[n];
             long[][] dp = new long[n][n];
             for (int i=0;i<n;i++){
-                arr[i] = sc.nextInt();
+                arr[i] = sc.nextLong();
             }
             for (int i=0;i<n;i++){
                 for (int j=0;j<n;j++){
@@ -31,5 +31,6 @@ public class A {
             }
             System.out.println("Case #" + scen + ": " + cnt);
         }
+        sc.close();
     }
 }
