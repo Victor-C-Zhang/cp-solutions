@@ -9,6 +9,10 @@ public class D {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(); //number sus
         int m = sc.nextInt(); //number cases
+        if (m==1) {
+            System.out.println(n*(n+1)/2);
+            return;
+        }
         int[][] master = new int[21][n+1]; //1-10 actual list, 11-20 pointers
         for (int i=1;i<=m;i++){
             for (int j=1;j<=n;j++){
@@ -35,7 +39,7 @@ public class D {
             if (curr.size()!=1) arr.add(curr);
 
         }
-        for (int i=3;i<m;i++){
+        for (int i=3;i<=m;i++){
             for (int j = 0; j<arr.size();j++){ //each list
                 boolean changed = false;
                 for (int k = 0; k<arr.get(j).size();k++){ //iterate through one list
