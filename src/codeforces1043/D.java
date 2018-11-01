@@ -4,6 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+//wa on test cases
 public class D {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
