@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39245a38-16e3-40f3-8690-9e61fbf89927" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/codeforces1043/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/codeforces1043/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/progNova2018/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/progNova2018/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/progNova2018/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/progNova2018/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces1043/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces1043/D.java" afterDir="false" />
-    </list>
+    <list default="true" id="39245a38-16e3-40f3-8690-9e61fbf89927" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +13,7 @@
     <session id="2004313590">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.opened" value="2" />
@@ -29,23 +21,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="46" />
+          <entry key="java" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="46" />
+          <entry key="JAVA" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="33016" />
+          <entry key="java" value="33805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33016" />
+          <entry key="JAVA" value="33805" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -53,18 +45,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/training6/Journey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codeforces1043/D.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,8 +60,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/progNova2018/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="31">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/progNova2018/BB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/progNova2018/BBB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/training6/MahmoudAndEhabAndTheBipartiteness.java" />
         <option value="$PROJECT_DIR$/src/training6/Journey.java" />
+        <option value="$PROJECT_DIR$/src/progNova2018/BB.java" />
+        <option value="$PROJECT_DIR$/src/progNova2018/BBB.java" />
       </list>
     </option>
   </component>
@@ -193,7 +199,7 @@
               <item name="puppy" type="b2602c69:ProjectViewProjectNode" />
               <item name="cp-solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="training6" type="462c0819:PsiDirectoryNode" />
+              <item name="progNova2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,7 +213,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/victor/Documents/CODE/RUCP/cp-solutions/src/spoj/PT07Z.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541016672137" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541083761919" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java_stuff/Puppy/src" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -223,7 +229,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Journey">
+  <component name="RunManager" selected="Application.BB">
+    <configuration name="BB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progNova2018.BB" />
+      <module name="puppy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progNova2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Journey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="training6.Journey" />
       <module name="puppy" />
@@ -239,19 +258,6 @@
     </configuration>
     <configuration name="MahmoudAndEhabAndTheBipartiteness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="training6.MahmoudAndEhabAndTheBipartiteness" />
-      <module name="puppy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="training6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Party" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training6.Party" />
       <module name="puppy" />
       <extension name="coverage">
         <pattern>
@@ -284,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Party" />
       <item itemvalue="Application.RoadConstruction" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.MahmoudAndEhabAndTheBipartiteness" />
       <item itemvalue="Application.Journey" />
+      <item itemvalue="Application.BB" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BB" />
         <item itemvalue="Application.Journey" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MahmoudAndEhabAndTheBipartiteness" />
         <item itemvalue="Application.RoadConstruction" />
-        <item itemvalue="Application.Party" />
       </list>
     </recent_temporary>
   </component>
@@ -311,18 +317,17 @@
       <option name="presentableId" value="Default" />
       <updated>1539627539843</updated>
       <workItem from="1539627557492" duration="16984000" />
-      <workItem from="1539669045370" duration="108248000" />
+      <workItem from="1539669045370" duration="110594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125232000" />
+    <option name="totallyTimeSpent" value="127578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.24659607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.24659607" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -331,7 +336,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31967214" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31967214" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46393442" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -822,16 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/progNova2018/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/training6/Party.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -894,8 +889,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training6/Journey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="10">
           <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/progNova2018/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/progNova2018/BB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/progNova2018/BBB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
