@@ -1,13 +1,13 @@
 package training5;
 
 import java.lang.reflect.Array;
-import javafx.util.*;
+//import javafx.util.*;
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
 public class TheFestiveEvening {
-    public static void main(String[] args){
+/*    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int maxguards = sc.nextInt();
@@ -39,5 +39,5 @@ public class TheFestiveEvening {
             }
         }
         System.out.println("NO");
-    }
+    } */
 }
