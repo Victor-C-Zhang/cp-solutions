@@ -1,0 +1,3 @@
+/home/victor/CODE/rucp/cppstuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/victor/CODE/rucp/cppstuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/victor/CODE/rucp/cppstuff/cmake-build-debug/CMakeFiles/cstuff.dir

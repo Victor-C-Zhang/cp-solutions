@@ -1,0 +1,232 @@
+1	Ontario Math Circles
+B1	P	15	15	10	7	14	11	8	3	13	0	96	18	17	30	48	209
+2	Georgia
+B1	G	15	13	13	4	11	12	8	0	13	0	89	12	17	30	49	197
+3	Ohio
+B1	P	14	14	10	7	12	9	12	3	14	1	96	6	16	30	47	195
+4	Wild Wild West
+B1	LV	15	13	10	7	12	11	7	5	12	1	93	16	8	30	47	194
+5	Colorado
+B1	LV	14	11	10	5	11	9	9	2	12	0	83	15	18	25	48	189
+6	Oregon
+B1	LV	13	13	8	6	15	7	9	0	13	0	84	8	13	30	50	185
+7	Georgia
+B2	G	13	14	10	7	9	12	11	1	12	0	89	6	6	25	48	174
+8	Nassau County
+B1	P	12	10	9	7	11	9	8	0	10	0	76	6	11	25	45	163
+9	Iowa
+B1	I	11	12	11	3	11	9	8	0	12	0	77	8	5	30	42	162
+10	Howard County
+B1	P	11	13	12	3	11	9	5	0	12	1	77	6	3	30	45	161
+11	Ontario Math Circles
+B2	P	8	13	9	6	9	8	4	1	10	0	68	10	6	25	48	157
+12	Maine
+B1	P	11	13	14	5	10	8	4	0	8	0	73	5	13	20	46	157
+13	Central Jersey 
+B1	P	12	12	6	6	9	7	5	0	8	0	65	8	11	25	45	154
+14	South Carolina
+B1	G	15	13	9	5	5	5	7	3	13	0	75	6	8	20	41	150
+15	University of Toronto Schools
+B1	P	6	10	5	3	9	7	6	0	10	0	56	8	13	25	43	145
+16	Las Vegas Math Circle
+B1	LV	11	12	7	4	8	4	8	1	10	0	65	3	13	20	42	143
+17	Western Massachusetts
+B1	P	11	13	12	6	11	8	4	1	11	0	77	9	6	15	34	141
+18	Kansas
+B1	I	8	11	10	4	3	7	5	2	4	0	54	10	8	25	38	135
+19	Georgia
+B3	G	9	10	9	1	7	6	4	0	8	0	54	0	13	20	43	130
+20	Kentucky
+B1	G	9	10	7	1	6	5	5	1	11	0	55	5	0	20	40	120
+21	Alabama
+B1	G	7	12	8	3	6	4	5	0	8	0	53	3	6	20	36	118
+22	Utah
+B1	LV	9	9	5	2	4	5	3	0	9	0	46	0	3	20	45	114
+23	Westchester Area Math Circle JV
+B1	P	6	8	6	2	5	4	4	0	4	1	40	0	5	25	43	113
+24	Wild Wild West
+B2	LV	10	9	6	1	4	5	5	1	8	0	49	3	3	15	40	110
+25	Northern Nevada Math Team
+B1	LV	5	9	6	0	3	4	4	0	9	0	40	3	8	15	43	109
+26	Nassau County
+B2	P	10	8	4	3	4	6	8	0	7	0	50	3	9	10	36	108
+27	Oregon
+B2	LV	7	5	6	1	1	6	3	0	8	0	37	3	5	25	31	101
+28	Ontario Math Circles
+B3	P	6	11	5	0	4	3	2	1	8	0	40	0	3	15	41	99
+29	Central Jersey JV
+B2	P	10	6	9	0	8	3	3	0	9	0	48	3	0	10	37	98
+30	Waterloo
+B1	P	5	4	4	0	4	3	3	1	2	0	26	5	0	25	41	97
+31	Raritan Valley Math Team
+B1	P	9	8	5	0	4	6	1	0	5	0	38	0	0	15	41	94
+32	Colorado
+B2	LV	7	6	6	3	4	3	7	1	8	0	45	0	0	10	38	93
+33	New Hampshire
+B1	P	6	4	5	0	1	4	1	0	5	0	26	0	5	20	37	88
+34	Chesapeake
+B1	P	9	8	2	2	4	4	2	0	5	0	36	0	0	15	36	87
+35	Ohio
+B2	P	11	7	6	2	5	3	6	0	7	0	47	0	0	5	34	86
+36	Wisconsin
+B1	I	5	5	4	2	1	4	3	1	5	0	30	3	0	20	32	85
+37	South Carolina
+B2	G	8	7	5	1	3	3	0	0	6	0	33	0	0	20	32	85
+38	Rhode Island
+A1	P	4	4	4	1	2	3	2	0	2	0	22	8	3	15	35	83
+39	South Carolina
+B3	G	7	5	5	2	4	4	0	0	6	0	33	5	3	10	30	81
+40	Vermont
+B1	P	4	6	5	1	5	4	3	0	3	0	31	0	0	10	36	77
+41	Howard County
+B2	P	9	6	4	0	2	3	5	1	3	0	33	0	0	5	38	76
+42	West Virginia
+B1	P	5	4	4	0	1	3	3	0	3	0	23	0	3	10	39	75
+43	York Math Circle
+B1	P	4	4	4	0	2	3	2	0	2	0	21	0	3	10	39	73
+44	Ohio 
+B3	P	4	4	2	0	2	3	4	0	4	0	23	0	0	10	39	72
+45	University of Toronto Schools
+B2	P	6	6	1	0	4	3	2	0	4	0	26	3	0	5	33	67
+46	Western Massachusetts JV
+B2	P	2	2	7	0	2	2	3	0	2	0	20	3	0	10	31	64
+47	Kentucky
+B2	G	3	7	3	0	4	3	3	0	3	0	26	0	0	10	28	64
+48	Maine
+B2	P	2	4	6	0	3	4	2	1	4	0	26	0	0	5	33	64
+49	Louisiana Math Circle
+B1	G	4	4	4	1	1	2	1	2	5	0	24	0	3	15	21	63
+50	Iowa
+B2	I	3	2	0	0	2	4	1	0	5	0	17	0	3	10	31	61
+51	Las Vegas Math Circle
+B2	LV	5	5	4	0	0	1	3	0	7	0	25	0	0	10	21	56
+52	Baltimore County Public Schools
+B1	P	2	2	3	1	1	2	1	0	2	0	14	0	0	10	29	53
+53	Northeast Pennsylvania
+B1	P	1	1	1	0	1	0	1	0	2	0	7	0	0	5	28	40
+54	Las Vegas Math Circle
+B3	LV	0	4	1	0	1	0	0	0	1	0	7	0	0	10	19	36
+55	Allentown 
+B1	P	0	0	2	0	0	0	1	1	3	0	7	0	0	5	24	36
+56	Rhode Island
+B2	P	1	2	2	0	0	0	0	0	0	0	5	0	0	0	23	28
+57	Northeast Pennsylvania
+B2	P	1	0	0	0	0	0	0	0	0	0	1	0	3	0	22	26
+58	Baltimore County Public Schools
+B2	P	0	1	1	0	0	1	0	0	0	0	3	0	0	0	11	14
+
+96	
+        
+89	
+        
+96	
+        
+93	
+        
+83	
+        
+84	
+        
+89	
+        
+76	
+        
+77	
+        
+77	
+        
+68	
+        
+73	
+        
+65	
+        
+75	
+        
+56	
+        
+65	
+        
+77	
+        
+54	
+        
+54	
+        
+55	
+        
+53	
+        
+46	
+        
+40	
+        
+49	
+        
+40	
+        
+50	
+        
+37	
+        
+40	
+        
+48	
+        
+26	
+        
+38	
+        
+45	
+        
+26	
+        
+36	
+        
+47	
+        
+30	
+        
+33	
+        
+22	
+        
+33	
+        
+31	
+        
+33	
+        
+23	
+        
+21	
+        
+23	
+        
+26	
+        
+20	
+        
+26	
+        
+26	
+        
+24	
+        
+17	
+        
+25	
+        
+14	
+        
+7	
+        
+7	
+        
+7	
+        
+5	
+        
+1	
+        
+3	
