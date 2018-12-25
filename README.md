@@ -1,5 +1,5 @@
 # Competitive Programming Solutions
-Solutions to various codeforces cp problems.
+Solutions to various cp problems.
 
 This repo is organized by host site, then by "contest" within which the solutions are named after the problem names.
 
