@@ -2,7 +2,9 @@
 // Created by victor on 12/18/18.
 //
 
-//segfault :(((((
+//finally acc holy
+//remember to consider edge case when there is only 1 node in a connected graph
+//RE-INIT QUEUE EVERY TIME
 
 #include <bits/stdc++.h>
 
@@ -10,19 +12,18 @@ using namespace std;
 
 #define endl '\n'
 #define int long long int
+#define double long double
 #define mod 998244353
 #define p push
 #define pb push_back
 #define f first
-//#define s second
+#define s second
 #define vi vector <int>
 #define vvi vector < vector <int> >
 #define pi pair <int, int>
-#define ppi pair < pair <int, int>, int>
+#define ppi pair < pair <int, int> , int >
+#define pppi pair<ppi,int>
 #define zp mp(0, 0)
-
-typedef long long ll;
-typedef long double ld;
 
 queue<int> q;
 vvi graph;
@@ -32,11 +33,12 @@ int counter[2];
 
 int bfs(int node){
     if (!touch[node]) touch[node] = true;
+    else return 0;
     for (int i: graph[node]){
         if (touch[i]) {
             if (arr[node]==arr[i]) return -1;
         }
-        else {
+        else if (arr[i]==-1){
             arr[i] = !arr[node];
             counter[!arr[node]]++;
             q.p(i);
@@ -60,6 +62,11 @@ signed main() {
     for (int ca = 0;ca <t;ca++){
         int n,m;
         cin >> n >> m;
+        //cout << n <<" "<< m << endl;
+        if (n==1) {
+            cout << 3 << endl;
+            continue;
+        }
         vvi graph1(n+1);
         for (int i=0;i<m;i++){
             int a,b;
@@ -75,6 +82,8 @@ signed main() {
         for (int i=0;i<=n;i++){
             touch1.pb(false);
         }
+        queue<int> q1;
+        q = q1;
         touch = touch1;
         arr = arr1;
         graph = graph1;
@@ -100,6 +109,7 @@ signed main() {
             int ba = 0;
             ba+=pow2s[counter[0]];
             if (counter[1]!=0) ba+=pow2s[counter[1]];
+            else ba++;
             ba %=mod;
             ans*= ba;
             ans%=mod;

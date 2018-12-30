@@ -23,5 +23,5 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
+
 }
