@@ -15,13 +15,22 @@ using namespace std;
 #define pi pair <int, int>
 #define ppi pair < pair <int, int> , int >
 #define pppi pair<ppi,int>
-#define zp mp(0, 0)
 
-
+const int N = 100;
 signed main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
 
+    int arr[N];
+    arr[1] = 1;
+    for (int i=2;i<N;i++){
+        arr[i] = (15%i + arr[i-1])%i;
+        if (arr[i]==0) arr[i] = i;
+    }
+    int a,b;
+    do {
+        cin >> a >>b;
 
+    } while (a!=0 && b!=0);
 }
