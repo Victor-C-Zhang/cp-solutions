@@ -1,3 +1,7 @@
+//
+// Created by victor on 1/6/19.
+//
+
 //something's wrong here, some sort of problem with prefixing
 #include <bits/stdc++.h>
 
@@ -70,7 +74,7 @@ signed main() {
     }
     for (int i=0;i<n;i++){
 
-            brr[i] += pref[i];
+        brr[i] += pref[i];
 //            if (bad[i]) {
 //                brr[i]--;
 //                ans -= 1 + 2 * brr[i];
