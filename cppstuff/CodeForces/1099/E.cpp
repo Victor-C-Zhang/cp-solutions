@@ -1,3 +1,10 @@
+//
+// Created by victor on 1/7/19.
+//
+
+//TLE, make this more bruteforcey
+//use next_permutation()
+
 #include <bits/stdc++.h>
 
 using namespace std;
