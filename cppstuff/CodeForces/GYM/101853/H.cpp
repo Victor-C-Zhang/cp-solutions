@@ -1,3 +1,7 @@
+//
+// Created by victor on 1/7/19.
+//
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -10,8 +14,8 @@ using namespace std;
 #define pb push_back
 #define f first
 #define s second
-#define vi vector <int>
-#define vvi vector < vector <int> >
+#define vi vector <char>
+#define vvi vector < vector <char> >
 #define pi pair <int, int>
 #define ppi pair < pair <int, int> , int >
 #define pppi pair<ppi,int>
@@ -24,5 +28,12 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-
+    int test;
+    cin >> test;
+    while (test--){
+        int n;
+        cin >> n;
+        n/=6;
+        cout << (int)sqrt(n) << endl;
+    }
 }
