@@ -12,8 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e93933cd-1768-4dd3-b000-1149524b87e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeForces/GYM/101853/J.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/1100/A.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/1100/B.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/1100/C.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/1096/D.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/1096/D.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cstuff" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cstuff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
@@ -112,58 +115,69 @@
     <session id="800406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="GDB" value="31" />
-          <entry key="cpp" value="31096" />
+          <entry key="cpp" value="37979" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="GDBCommands" value="31" />
-          <entry key="ObjectiveC" value="31096" />
+          <entry key="ObjectiveC" value="37979" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="56" />
-          <entry key="cstuff (disassembly)" value="1" />
-          <entry key="h" value="13" />
+          <entry key="cpp" value="64" />
+          <entry key="cstuff (disassembly)" value="2" />
+          <entry key="h" value="16" />
           <entry key="tcc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Disassembly" value="1" />
-          <entry key="ObjectiveC" value="70" />
+          <entry key="Disassembly" value="2" />
+          <entry key="ObjectiveC" value="81" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="696">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeForces/1033/D.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2146">
+              <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeForces/1102/D.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
+            <state relative-caret-position="-638">
               <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
@@ -190,17 +204,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeForces/1097/D.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3509">
+            <state relative-caret-position="953">
               <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/1096/D.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -218,12 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1081/B.cpp" />
-        <option value="$PROJECT_DIR$/1081/C.cpp" />
-        <option value="$PROJECT_DIR$/1081/E.cpp" />
-        <option value="$PROJECT_DIR$/1081/D.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1081/D.cpp" />
-        <option value="$PROJECT_DIR$/UVaOnlineJudge/846.cpp" />
         <option value="$PROJECT_DIR$/RUCP/business.cpp" />
         <option value="$PROJECT_DIR$/UVaOnlineJudge/10213.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/230/B.cpp" />
@@ -238,7 +237,6 @@
         <option value="$PROJECT_DIR$/CodeForces/1096/A.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1096/B.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1096/C.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1096/D.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1095/F.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1093/D.cpp" />
         <option value="$PROJECT_DIR$/UVaOnlineJudge/120.cpp" />
@@ -266,9 +264,16 @@
         <option value="$PROJECT_DIR$/CodeForces/1102/A.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1102/B.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1102/C.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1102/E.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1102/D.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1100/B.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1100/A.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1100/C.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1100/D.cpp" />
+        <option value="$PROJECT_DIR$/SPOJ/TOPOSORT.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1033/D.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1096/D.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
@@ -307,30 +312,24 @@
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
               <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="1102" type="462c0819:PsiDirectoryNode" />
+              <item name="1033" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
               <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="GYM" type="462c0819:PsiDirectoryNode" />
+              <item name="1100" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
               <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="GYM" type="462c0819:PsiDirectoryNode" />
-              <item name="101853" type="462c0819:PsiDirectoryNode" />
+              <item name="ACMSGURU" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
-              <item name="RUCP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
-              <item name="UVaOnlineJudge" type="462c0819:PsiDirectoryNode" />
+              <item name="SPOJ" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -405,18 +404,20 @@
       <workItem from="1545720080752" duration="8739000" />
       <workItem from="1545796939720" duration="46663000" />
       <workItem from="1546652305806" duration="44418000" />
-      <workItem from="1546912895509" duration="14949000" />
+      <workItem from="1546912895509" duration="15100000" />
+      <workItem from="1547389865534" duration="7190000" />
+      <workItem from="1547614131014" duration="23333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263490000" />
+    <option name="totallyTimeSpent" value="294164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11470426" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117468216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -483,55 +484,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeForces/1095/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1095/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1095/E.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2059">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1095/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/584/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2461">
-          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1087/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="953">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/230/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1069">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/1081/D.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1214">
@@ -686,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="798" selection-start-line="798" selection-end-line="798" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/1091/C.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="762">
@@ -739,27 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="957">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1091/E.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3103">
-          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1097/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3509">
-          <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1096/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -812,20 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1099/E.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/1102/E.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="692">
@@ -833,10 +743,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1100/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1069">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1100/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="953">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1100/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPOJ/TOPOSORT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1711">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/bits/stl_algobase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3498">
+          <caret line="367" column="18" selection-start-line="367" selection-start-column="18" selection-end-line="367" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1100/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="797" selection-start-line="797" selection-end-line="797" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1096/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1091/E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3103">
+          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1099/E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1097/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="953">
+          <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/1102/D.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="-638">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1033/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2146">
+          <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
