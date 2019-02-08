@@ -1,3 +1,7 @@
+//
+// Created by victor on 2/6/19.
+//
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -5,7 +9,7 @@ using namespace std;
 #define endl '\n'
 #define int long long int
 #define double long double
-//#define mod 998244353
+#define mod 998244353
 #define p push
 #define pb push_back
 #define f first
@@ -21,5 +25,10 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
+    int q; cin >> q;
+    while (q--){
+        int a,b;
+        cin >> a >>b;
+        cout << (a-1)*9+b << endl;
+    }
 }
