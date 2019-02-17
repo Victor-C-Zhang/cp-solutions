@@ -1,3 +1,7 @@
+//
+// Created by victor on 2/16/19.
+//
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -21,5 +25,9 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
+    int n,v; cin >> n >>v;
+    if (n-1<=v) cout << n-1 << endl;
+    else {
+        cout << v-1+(1+(n-v))*(n-v)/2 << endl;
+    }
 }
