@@ -1,3 +1,7 @@
+//
+// Created by victor on 2/20/19.
+//
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -16,29 +20,16 @@ using namespace std;
 #define ppi pair < pair <int, int> , int >
 #define pppi pair<ppi,int>
 
-
-const double PI = acos(-1.0);
 signed main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
 
     int t; cin >> t;
-    vi factors;
-    for (int T=1; T<=t; T++){
-        int n; cin >> n;
-        int places = 0;
-        while (n){
-            if (n-9*pow(10,places)>=0) {
-                n-=9*pow(10,places);
-                places++;
-            }
-        }
-        places++;
-        int ans = 0;
-        cout << "Case " << T << ": ";
-        int gg = gcd(a,n);
-        cout << a/gg << '/' << n/gg << endl;
+    while (t--){
+        int n,a,b;
+        cin >> n >>a >>b;
+        if (2*a<=b) cout << a*n << endl;
+        else cout << n/2*b + a*(n%2) << endl;
     }
-
 }

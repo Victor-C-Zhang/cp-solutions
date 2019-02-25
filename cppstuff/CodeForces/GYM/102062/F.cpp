@@ -1,3 +1,7 @@
+//
+// Created by victor on 2/22/19.
+//
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -16,6 +20,25 @@ using namespace std;
 #define ppi pair < pair <int, int> , int >
 #define pppi pair<ppi,int>
 
+const int N = 1000007;
+bool prime[N];
+vi vs;
+
+void sieve()
+{
+    for(int i = 2; i < N; i++) prime[i] = 1;
+
+    for(int i = 2; i < N; i++) {
+        if(prime[i]) {
+            vs.pb(i);
+            for(int j = i * i; j < N; j += i) prime[j] = 0;
+        }
+    }
+}
+
+int gcd (int a, int b) {
+    return b ? gcd (b, a % b) : a;
+}
 
 const double PI = acos(-1.0);
 signed main() {
@@ -23,19 +46,21 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
+    sieve();
     int t; cin >> t;
     vi factors;
     for (int T=1; T<=t; T++){
         int n; cin >> n;
-        int places = 0;
-        while (n){
-            if (n-9*pow(10,places)>=0) {
-                n-=9*pow(10,places);
-                places++;
+        for (int i = 0; vs[i]<=n;i++){
+            int a = 0;
+            while (n%vs[i]){
+                n/=vs[i];
+                a++;
             }
+            if (a!=0) factors.pb(a);
+
         }
-        places++;
-        int ans = 0;
+
         cout << "Case " << T << ": ";
         int gg = gcd(a,n);
         cout << a/gg << '/' << n/gg << endl;
