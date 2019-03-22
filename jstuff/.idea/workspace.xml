@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0758067-def9-448d-9c00-89c82448830f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cppstuff/CodeForces/1104/D.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cppstuff/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cppstuff/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cppstuff/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../cppstuff/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cppstuff/cmake-build-debug/cstuff" beforeDir="false" afterPath="$PROJECT_DIR$/../cppstuff/cmake-build-debug/cstuff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cppstuff/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cppstuff/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/googleKickstart/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/proCon2/Cormen.java">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="870">
+              <caret line="32" column="67" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="32" selection-end-column="67" />
+              <folding>
+                <element signature="e#500#508#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,6 +35,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/proCon2/Cormen.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="134" />
@@ -54,6 +56,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,13 +80,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549055551509" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552417148332" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -101,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cormen">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="googleKickstart.B" />
       <module name="jstuff" />
@@ -141,6 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="jstuff" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <module name="jstuff" />
       <method v="2">
@@ -151,9 +160,11 @@
       <item itemvalue="Application.BmailComputerNetwork" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.Cormen" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Cormen" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.BmailComputerNetwork" />
@@ -175,16 +186,17 @@
       <workItem from="1549055421077" duration="150000" />
       <workItem from="1549055805131" duration="221000" />
       <workItem from="1549237340750" duration="171000" />
+      <workItem from="1552413537457" duration="2926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1289000" />
+    <option name="totallyTimeSpent" value="4215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26174682" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26478717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,7 +214,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974717" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -237,6 +249,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/proCon2/Cormen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/googleKickstart/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -244,10 +263,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/proCon2/Cormen.java">
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="870">
+          <caret line="32" column="67" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="32" selection-end-column="67" />
+          <folding>
+            <element signature="e#500#508#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
