@@ -1,3 +1,9 @@
+//
+// Created by victor on 5/2/19.
+//
+
+//TODO: code to binary search for endpoints for each position
+
 #include <bits/stdc++.h>
 
 using namespace std;
