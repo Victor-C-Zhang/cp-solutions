@@ -13,9 +13,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e93933cd-1768-4dd3-b000-1149524b87e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cstuff" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cstuff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jstuff/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,7 +112,7 @@
     <session id="800406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.18" value="1" />
@@ -123,28 +124,31 @@
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="GDB" value="31" />
-          <entry key="cpp" value="74075" />
+          <entry key="cpp" value="79061" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="GDBCommands" value="31" />
-          <entry key="ObjectiveC" value="74075" />
+          <entry key="ObjectiveC" value="79061" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="130" />
-          <entry key="cstuff (disassembly)" value="4" />
+          <entry key="cpp" value="136" />
+          <entry key="cstuff (disassembly)" value="5" />
           <entry key="h" value="19" />
           <entry key="iomanip" value="1" />
           <entry key="tcc" value="1" />
@@ -152,24 +156,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Disassembly" value="4" />
-          <entry key="ObjectiveC" value="151" />
+          <entry key="Disassembly" value="5" />
+          <entry key="ObjectiveC" value="157" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="136">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1B/C.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
@@ -183,15 +187,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/1152/A.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -247,6 +242,8 @@
     <findStrings>
       <find>sort</find>
       <find>maxcharles</find>
+      <find>odd.size()</find>
+      <find>even.size()</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -255,11 +252,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeForces/1108/A.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1108/B.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1108/C.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1108/F.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1108/D.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1107/A.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1107/B.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1107/C.cpp" />
@@ -305,6 +297,11 @@
         <option value="$PROJECT_DIR$/GoogleCodeJam/1A/B.cpp" />
         <option value="$PROJECT_DIR$/GoogleCodeJam/1C/B.cpp" />
         <option value="$PROJECT_DIR$/GoogleCodeJam/1C/A.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1144/A.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1144/C.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1144/B.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1144/D.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1144/E.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
@@ -351,7 +348,7 @@
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
               <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="1101" type="462c0819:PsiDirectoryNode" />
+              <item name="1144" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
@@ -363,12 +360,6 @@
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
               <item name="GoogleCodeJam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
-              <item name="GoogleCodeJam" type="462c0819:PsiDirectoryNode" />
-              <item name="1C" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
@@ -477,22 +468,25 @@
       <workItem from="1556467577968" duration="11776000" />
       <workItem from="1556850482419" duration="2605000" />
       <workItem from="1556960780164" duration="9304000" />
+      <workItem from="1558172196048" duration="667000" />
+      <workItem from="1560549423762" duration="6202000" />
+      <workItem from="1560646236636" duration="6145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="425182000" />
+    <option name="totallyTimeSpent" value="438196000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
+    <frame x="126" y="35" width="3714" height="2125" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14814815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15306123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" weight="0.29886913" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45665053" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.45665053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -551,55 +545,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>36</line>
-          <option name="timeStamp" value="17" />
+          <line>49</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeForces/1106/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1106/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1111/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1111/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/ACMSGURU/519.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="983">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/ACMSGURU/520.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/1113/A.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="957">
@@ -834,10 +786,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1101/D.cpp">
+    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1C/B.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="1099">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1C/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3506">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
         </state>
       </provider>
     </entry>
@@ -845,6 +804,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/2/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1144/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1144/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1144/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1711">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1144/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1B/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1101/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -883,31 +891,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1C/B.cpp">
+    <entry file="file://$PROJECT_DIR$/CodeForces/1144/E.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1099">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1C/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3506">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1B/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="136">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
