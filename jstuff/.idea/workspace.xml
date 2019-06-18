@@ -4,6 +4,78 @@
     <list default="true" id="b0758067-def9-448d-9c00-89c82448830f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../cppstuff/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cppstuff/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cppstuff/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cppstuff/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/ARMLresults.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/ARMLresults.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/BearAndBigBrother.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/BearAndBigBrother.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/BeautifulMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/BeautifulMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/GravityFlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/GravityFlip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/PetyaAndStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/PetyaAndStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/VanyaAndFence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/beginningTraining1/VanyaAndFence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1033_lyftLevel5/Divisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1033_lyftLevel5/Divisors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1033_lyftLevel5/KingEscape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1033_lyftLevel5/KingEscape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1033_lyftLevel5/PermutationGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1033_lyftLevel5/PermutationGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1043/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1057_mailRUpractice/BmailComputerNetwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1057_mailRUpractice/BmailComputerNetwork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1057_mailRUpractice/DDoS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1057_mailRUpractice/DDoS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1073/DiverseSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1073/DiverseSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1073/VasyaAndBooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1073/VasyaAndBooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces1075_lyftLevel5/TheTowerisGoingHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces1075_lyftLevel5/TheTowerisGoingHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces517/CramTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces517/CramTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces517/CuriosityHasNoLimits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces517/CuriosityHasNoLimits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces517/GoldenPlate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces517/GoldenPlate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/codeforces517/MinimumPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/codeforces517/MinimumPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/googleKickstart/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/googleKickstart/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/googleKickstart/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/googleKickstart/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/googleKickstart/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/googleKickstart/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon2/Cormen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon2/Cormen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon2/Flowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon2/Flowers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon2/GeorgeAndJob$FastReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon2/GeorgeAndJob$FastReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon2/GeorgeAndJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon2/GeorgeAndJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon3/Juicer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon3/Juicer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon3/NonCoprimePartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon3/NonCoprimePartition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon3/TeamOlympiad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon3/TeamOlympiad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon3/Tetrahedron.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon3/Tetrahedron.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon4/KuriyamaMiraisStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon4/KuriyamaMiraisStones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon4/KyoyaandColoredBalls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon4/KyoyaandColoredBalls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon4/MashmohkAndACM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon4/MashmohkAndACM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon4/Rocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon4/Rocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/proCon4/StudentsInRailwayCarriage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/proCon4/StudentsInRailwayCarriage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/progNova2018/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/progNova2018/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/progNova2018/Aaah.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/progNova2018/Aaah.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/progNova2018/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/progNova2018/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/progNova2018/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/progNova2018/BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/progNova2018/BBB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/progNova2018/BBB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/progNova2018/CanonicalCoinSystems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/progNova2018/CanonicalCoinSystems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/progNova2018/Modulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/progNova2018/Modulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/spoj/BUGLIFE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/spoj/BUGLIFE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/spoj/PT07Z.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/spoj/PT07Z.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training1/ApplemanAndToastman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training1/ApplemanAndToastman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training1/Stones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training1/Stones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training2/Greed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training2/Greed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training2/PerfectSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training2/PerfectSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training2/SongsCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training2/SongsCompression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training2/WalkingBetweenHouses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training2/WalkingBetweenHouses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training3/Boredom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training3/Boredom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training4/Joysticks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training4/Joysticks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training4/NikitaAndString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training4/NikitaAndString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training4/PhotoToRemember.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training4/PhotoToRemember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training4/ShashlikCooking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training4/ShashlikCooking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training4/Vacations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training4/Vacations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training5/AandBandCompilationErrors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training5/AandBandCompilationErrors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training5/BooksQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training5/BooksQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training5/SonyaAndQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training5/SonyaAndQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training6/Journey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training6/Journey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training6/KefaAndPark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training6/KefaAndPark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training6/MahmoudAndEhabAndTheBipartiteness.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training6/MahmoudAndEhabAndTheBipartiteness.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training6/Party.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training6/Party.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jstuff/training6/RoadConstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jstuff/training6/RoadConstruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="600">
+              <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="71" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -37,9 +109,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="134" />
+    <option name="x" value="1983" />
     <option name="y" value="35" />
-    <option name="width" value="1853" />
+    <option name="width" value="1857" />
     <option name="height" value="2125" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,7 +150,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552417148332" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../balls/optimal-mrppg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -180,16 +252,18 @@
       <workItem from="1549237340750" duration="171000" />
       <workItem from="1552413537457" duration="2926000" />
       <workItem from="1560128117784" duration="361000" />
+      <workItem from="1560742051166" duration="1709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4576000" />
+    <option name="totallyTimeSpent" value="6285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="126" y="35" width="3714" height="2125" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2677882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27082184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="600">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="71" selection-end-column="48" />
         </state>
       </provider>
     </entry>
