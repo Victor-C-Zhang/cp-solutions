@@ -7,7 +7,7 @@
 using namespace std;
 
 #define endl '\n'
-//#define int long long int
+#define int long long int
 #define mod 1000000007
 #define p push
 #define pb push_back
@@ -33,7 +33,22 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
-
-    return 0;
+    int n,m; cin >> n >> m;
+    int arr[m][5];
+    char c;
+    for (int i=0;i<m;++i)
+        for (int j=0;j<5;++j) arr[i][j] = 0;
+    for (int i=0;i<n;++i) {
+        for (int j=0;j<m;++j) {
+            cin >> c;
+            arr[j][c-'A']++;
+        }
+    }
+    for (int i=0;i<m;++i) sort(arr[i],arr[i]+5);
+    int ans = 0, k;
+    for (int i=0;i<m;++i){
+        cin >> k;
+        ans+=k*arr[i][4];
+    }
+    cout << ans << endl;
 }

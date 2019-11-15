@@ -7,7 +7,7 @@
 using namespace std;
 
 #define endl '\n'
-//#define int long long int
+#define int long long int
 #define mod 1000000007
 #define p push
 #define pb push_back
@@ -33,7 +33,12 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
-
-    return 0;
+    int n; cin >> n;
+    int odd=0,even=0,a;
+    while (n--){
+        cin >>a;
+        if (a%2) odd++;
+        else even++;
+    }
+    cout << min(even,odd) << endl;
 }

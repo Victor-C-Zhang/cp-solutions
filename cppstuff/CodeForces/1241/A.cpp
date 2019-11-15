@@ -1,4 +1,8 @@
 //
+// Created by victor on 10/6/19.
+//
+
+//
 // Created by victor on 9/4/19.
 //
 
@@ -7,7 +11,7 @@
 using namespace std;
 
 #define endl '\n'
-//#define int long long int
+#define int long long int
 #define mod 1000000007
 #define p push
 #define pb push_back
@@ -33,7 +37,12 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
-
-    return 0;
+    int n; cin >> n;
+    int a;
+    while (n--){
+        cin >> a;
+        if (a<4) cout << 4-a << endl;
+        else if (a%2==1) cout << 1 << endl;
+        else cout << 0 << endl;
+    }
 }

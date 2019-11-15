@@ -7,7 +7,7 @@
 using namespace std;
 
 #define endl '\n'
-//#define int long long int
+#define int long long int
 #define mod 1000000007
 #define p push
 #define pb push_back
@@ -33,7 +33,16 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
-
-    return 0;
+    int t; cin >> t;
+    while (t--){
+        int n; cin >> n;
+        int arr[n];
+        for (int i=0;i<n;++i) cin >> arr[i];
+        int run = INT_MAX, ans = 0;
+        for (int i=n-1;i>-1;--i){
+            if (arr[i]<=run) run = arr[i];
+            else ans++;
+        }
+        cout << ans << endl;
+    }
 }

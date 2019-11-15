@@ -1,4 +1,8 @@
 //
+// Created by victor on 10/6/19.
+//
+
+//
 // Created by victor on 9/4/19.
 //
 
@@ -7,7 +11,7 @@
 using namespace std;
 
 #define endl '\n'
-//#define int long long int
+#define int long long int
 #define mod 1000000007
 #define p push
 #define pb push_back
@@ -33,7 +37,24 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
-
-    return 0;
+    int n; cin >> n;
+    string a,b;
+    while (n--){
+        cin >> a >> b;
+        bool arr1[26];
+        bool arr2[26];
+        fill(arr1,arr1+26,0);
+        fill(arr2,arr2+26,0);
+        for (char c: a) arr1[c-'a']= 1;
+        for (char c: b) arr2[c-'a']= 1;
+        bool flag = false;
+        for (int i=0;i<26;++i){
+            if (arr1[i] && arr2[i]) {
+                flag = true;
+                break;
+            }
+        }
+        if (flag) cout <<"YES" << endl;
+        else cout << "NO" << endl;
+    }
 }

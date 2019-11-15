@@ -12,81 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e93933cd-1768-4dd3-b000-1149524b87e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeForces/1144/G.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cstuff.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cstuff" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cstuff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/ARMLresults.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/ARMLresults.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/BearAndBigBrother.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/BearAndBigBrother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/BeautifulMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/BeautifulMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/GravityFlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/GravityFlip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/PetyaAndStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/PetyaAndStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/Team.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/VanyaAndFence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/beginningTraining1/VanyaAndFence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1033_lyftLevel5/Divisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1033_lyftLevel5/Divisors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1033_lyftLevel5/KingEscape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1033_lyftLevel5/KingEscape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1033_lyftLevel5/PermutationGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1033_lyftLevel5/PermutationGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1043/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1057_mailRUpractice/BmailComputerNetwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1057_mailRUpractice/BmailComputerNetwork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1057_mailRUpractice/DDoS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1057_mailRUpractice/DDoS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1073/DiverseSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1073/DiverseSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1073/VasyaAndBooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1073/VasyaAndBooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1075_lyftLevel5/TheTowerisGoingHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces1075_lyftLevel5/TheTowerisGoingHome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/CramTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/CramTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/CuriosityHasNoLimits.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/CuriosityHasNoLimits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/GoldenPlate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/GoldenPlate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/MinimumPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/codeforces517/MinimumPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/googleKickstart/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/googleKickstart/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/googleKickstart/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/googleKickstart/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/googleKickstart/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/googleKickstart/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/Cormen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/Cormen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/Flowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/Flowers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/GeorgeAndJob$FastReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/GeorgeAndJob$FastReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/GeorgeAndJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon2/GeorgeAndJob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/Juicer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/Juicer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/NonCoprimePartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/NonCoprimePartition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/TeamOlympiad.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/TeamOlympiad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/Tetrahedron.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon3/Tetrahedron.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/KuriyamaMiraisStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/KuriyamaMiraisStones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/KyoyaandColoredBalls.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/KyoyaandColoredBalls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/MashmohkAndACM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/MashmohkAndACM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/Rocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/Rocket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/StudentsInRailwayCarriage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/proCon4/StudentsInRailwayCarriage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/Aaah.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/Aaah.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/BB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/BBB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/BBB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/CanonicalCoinSystems.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/CanonicalCoinSystems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/Modulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/progNova2018/Modulo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/spoj/BUGLIFE.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/spoj/BUGLIFE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/spoj/PT07Z.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/spoj/PT07Z.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training1/ApplemanAndToastman.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training1/ApplemanAndToastman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training1/Stones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training1/Stones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/Greed.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/Greed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/PerfectSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/PerfectSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/SongsCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/SongsCompression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/WalkingBetweenHouses.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training2/WalkingBetweenHouses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training3/Boredom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training3/Boredom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/Joysticks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/Joysticks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/NikitaAndString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/NikitaAndString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/PhotoToRemember.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/PhotoToRemember.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/ShashlikCooking.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/ShashlikCooking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/Vacations.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training4/Vacations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training5/AandBandCompilationErrors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training5/AandBandCompilationErrors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training5/BooksQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training5/BooksQueries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training5/SonyaAndQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training5/SonyaAndQueries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/Journey.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/Journey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/KefaAndPark.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/KefaAndPark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/MahmoudAndEhabAndTheBipartiteness.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/MahmoudAndEhabAndTheBipartiteness.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/Party.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/Party.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/RoadConstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/out/production/jstuff/training6/RoadConstruction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jstuff/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jstuff/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyst/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -182,99 +112,91 @@
     <session id="800406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="48" />
+          <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="4" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="5" />
-          <entry key="project.open.time.23" value="4" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="7" />
+          <entry key="project.open.time.23" value="5" />
           <entry key="project.open.time.24" value="3" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.25" value="4" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="GDB" value="31" />
-          <entry key="cpp" value="79627" />
+          <entry key="GDB" value="56" />
+          <entry key="cpp" value="93802" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="GDBCommands" value="31" />
-          <entry key="ObjectiveC" value="79627" />
+          <entry key="GDBCommands" value="56" />
+          <entry key="ObjectiveC" value="93802" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="138" />
-          <entry key="cstuff (disassembly)" value="5" />
+          <entry key="Makefile" value="1" />
+          <entry key="Makefile2" value="1" />
+          <entry key="cmake" value="1" />
+          <entry key="cpp" value="154" />
+          <entry key="cstuff (disassembly)" value="7" />
           <entry key="h" value="19" />
           <entry key="iomanip" value="1" />
+          <entry key="iostream" value="1" />
           <entry key="tcc" value="1" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Disassembly" value="5" />
-          <entry key="ObjectiveC" value="159" />
+          <entry key="CMakeCache.txt" value="1" />
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="Disassembly" value="7" />
+          <entry key="ObjectiveC" value="176" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="661">
-              <caret line="34" column="13" lean-forward="true" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeForces/1144/G.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1099">
-              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="1102">
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1B/C.cpp">
+        <entry file="file://$PROJECT_DIR$/CodeForces/1241/E.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="2030">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/1101/D.cpp">
+        <entry file="file://$PROJECT_DIR$/CodeForces/1201/D.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/1118/E.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1653">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="319">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -332,21 +254,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeForces/1107/C.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1107/D.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1106/A.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1106/B.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1106/C.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1106/D.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1111/B.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1111/A.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/ACMSGURU/519.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/ACMSGURU/520.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1113/A.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1113/B.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1113/D.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1118/A.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/1118/B.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1118/C.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1118/E.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1118/F1.cpp" />
@@ -381,8 +288,23 @@
         <option value="$PROJECT_DIR$/CodeForces/1144/D.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1144/E.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1144/F.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/1144/G.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1201/C.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1201/B.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1201/A.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1201/D.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1213/A.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1213/B.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1220/A.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1220/B.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1220/D.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1220/C.cpp" />
+        <option value="$PROJECT_DIR$/GoogleKickstart/F/B.cpp" />
+        <option value="$PROJECT_DIR$/GoogleKickstart/F/C.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1241/A.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1241/B.cpp" />
+        <option value="$PROJECT_DIR$/CodeForces/1241/E.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
@@ -394,10 +316,10 @@
   </component>
   <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1609" />
-    <option name="y" value="226" />
-    <option name="width" value="2132" />
-    <option name="height" value="1465" />
+    <option name="x" value="559" />
+    <option name="y" value="627" />
+    <option name="width" value="1774" />
+    <option name="height" value="1165" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -405,6 +327,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -421,19 +344,7 @@
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
               <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="1033" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="1144" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="1152" type="462c0819:PsiDirectoryNode" />
+              <item name="1241" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
@@ -448,19 +359,29 @@
             <path>
               <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
+              <item name="GoogleKickstart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
+              <item name="GoogleKickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="F" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cstuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cppstuff" type="462c0819:PsiDirectoryNode" />
               <item name="RUCP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/victor/CODE/rucp/cstuff/projectEuler/P1.h" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../rutgers/cs211" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -551,29 +472,48 @@
       <workItem from="1558172196048" duration="667000" />
       <workItem from="1560549423762" duration="6202000" />
       <workItem from="1560646236636" duration="6975000" />
-      <workItem from="1560819373492" duration="1454000" />
+      <workItem from="1560819373492" duration="1562000" />
+      <workItem from="1561413249396" duration="143000" />
+      <workItem from="1561433234179" duration="652000" />
+      <workItem from="1564985643298" duration="4322000" />
+      <workItem from="1565215465566" duration="26000" />
+      <workItem from="1567056516522" duration="2355000" />
+      <workItem from="1567640360978" duration="3866000" />
+      <workItem from="1567704963415" duration="3464000" />
+      <workItem from="1568051216031" duration="669000" />
+      <workItem from="1568159611170" duration="36000" />
+      <workItem from="1568822490041" duration="5631000" />
+      <workItem from="1569780119500" duration="7061000" />
+      <workItem from="1570079637653" duration="1109000" />
+      <workItem from="1570161813762" duration="1077000" />
+      <workItem from="1570374040209" duration="6386000" />
+      <workItem from="1570492274333" duration="5382000" />
+      <workItem from="1570549876183" duration="31000" />
+      <workItem from="1570635489199" duration="6944000" />
+      <workItem from="1570727405341" duration="113000" />
+      <workItem from="1571151555313" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440480000" />
+    <option name="totallyTimeSpent" value="490457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="126" y="35" width="3714" height="2125" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15471594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19442913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" visible="true" weight="0.29886913" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" weight="0.29833063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45665053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32471728" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.4345719" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002764" side_tool="true" weight="0.31502423" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -625,165 +565,10 @@
           <line>43</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>64</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeForces/1113/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1108/F.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1118/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1118/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1118/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GYM/102062/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GYM/102062/E.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GYM/102062/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GYM/102062/F.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1766">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1118/F1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GYM/102062/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1139/A.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1139/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1139/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="983">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1139/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1363">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoogleHashcode/throw.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1143/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1073">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1143/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2233">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1143/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1143/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoogleCodeJam/Practice/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1102/D.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GoogleCodeJam/Practice/B.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1392">
@@ -924,6 +709,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1144/G.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2001">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GoogleCodeJam/1B/C.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -942,6 +734,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1653">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1201/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1201/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1201/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1213/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1213/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1213/C.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1220/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1220/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1220/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1220/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="983">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleKickstart/F/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleKickstart/F/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="93" column="24" lean-forward="true" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1241/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1241/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1241/E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2030">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/1201/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -970,20 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3509">
           <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="34" column="13" lean-forward="true" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/1144/G.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>

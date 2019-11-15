@@ -1,5 +1,5 @@
 //
-// Created by victor on 9/4/19.
+// Created by victor on 9/18/19.
 //
 
 #include <bits/stdc++.h>
@@ -7,7 +7,7 @@
 using namespace std;
 
 #define endl '\n'
-//#define int long long int
+#define int long long int
 #define mod 1000000007
 #define p push
 #define pb push_back
@@ -33,7 +33,14 @@ signed main() {
     cin.tie(NULL);
     cout.tie(NULL);
 
-    
-
-    return 0;
+    string s; cin >> s;
+    char least[s.size()];
+    least[0] = s[0];
+    for (int i=1;i<s.size();++i){
+        least[i] = min(s[i],least[i-1]);
+    }
+    for (int i=0;i<s.size();++i){
+        if (least[i]<s[i]) cout << "Ann" << endl;
+        else cout << "Mike" << endl;
+    }
 }
