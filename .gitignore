@@ -1,0 +1,7 @@
+.idea/
+*.iml
+venv/
+cmake-build-debug/
+CMakeLists.txt
+bin/
+out/
